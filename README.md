@@ -1,4 +1,4 @@
-### Hi there 👋
+👋 I am XiaoTian Ma, a developer in Chengdu. Reach me at https://leetcode.cn/u/x1a0t/. I'm currently learning bash scripts.
 
 <!--
 **405028157/405028157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
