@@ -1,6 +1,6 @@
 👋 I am XiaoTian Ma, a developer in Chengdu. I'm currently learning bash scripts. I found https://tldp.org/guides.html helpful. 
 
-📫 Reach me at  https://leetcode.cn/u/x1a0t/.「leetcode homepage」 https://x1a0t.zhubai.love/「blog」
+📫 Reach me at  https://leetcode.cn/u/x1a0t/. 「Lc homepage」 https://x1a0t.zhubai.love/「blog」
 <!--
 **405028157/405028157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
