@@ -8,7 +8,7 @@
 ### Find me
 
 - [leetcode homepage](https://leetcode.cn/u/x1a0t/.)
-- [weekly blog](https://x1a0t.zhubai.love/)
+- [My weekly blog](https://x1a0t.zhubai.love/)
 
 
 <!--
