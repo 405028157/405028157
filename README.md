@@ -7,7 +7,8 @@
 
 ### Find me
 
-https://leetcode.cn/u/x1a0t/. 「leetcode homepage」
+「leetcode homepage」 https://leetcode.cn/u/x1a0t/.
+
 
 <!--
 **405028157/405028157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
