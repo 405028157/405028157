@@ -3,7 +3,7 @@
 ### My Interests:
 
 - I'm currently learning bash scripts. I found https://tldp.org/guides.html helpful. 
-- I set up a Soft router based on OpenWrt. This is my practice. 
+- Soft router based on OpenWrt. [This is my practice](https://github.com/405028157/Notebook/blob/main/notes/openwrt.md). 
 
 ### Find me
 
