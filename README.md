@@ -1,6 +1,14 @@
-👋 I am XiaoTian Ma, a developer in Chengdu. I'm currently learning bash scripts. I found https://tldp.org/guides.html helpful. 
+👋 I am XiaoTian Ma, a developer in Chengdu.
 
-📫 Reach me at  https://leetcode.cn/u/x1a0t/. 「leetcode homepage」
+### My Interests:
+
+- I'm currently learning bash scripts. I found https://tldp.org/guides.html helpful. 
+- I set up a Soft router based on OpenWrt. This is my practice. 
+
+### Find me
+
+https://leetcode.cn/u/x1a0t/. 「leetcode homepage」
+
 <!--
 **405028157/405028157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
