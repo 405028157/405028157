@@ -1,10 +1,11 @@
-👋 I am XiaoTian Ma, a developer in Chengdu. (To be updated)
+👋 I am XiaoTian Ma, a full stack engineer in Hangzhou, working for [@toeverything](https://github.com/toeverything).
 
 ### My Interests:
 
-- I'm currently learning bash scripts. I found https://tldp.org/guides.html helpful. 
+- Shell scripts. I found https://tldp.org/guides.html helpful. 
 - Soft router based on OpenWrt. [This is my practice](https://github.com/405028157/Notebook/blob/main/notes/openwrt.md). (Will be rewritted, including additional nas, docker topic, and clearer explanation of openwrt installation)
 - FE knowledge. [FE-roadmap](https://github.com/thorseraq/FE-roadmap)
+- I'm currently learning Rust through [Rust Offical Doc](https://doc.rust-lang.org/book/title-page.html).
 
 ### Find me
 
