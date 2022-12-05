@@ -1,4 +1,4 @@
-👋 A developer in Hangzhou, working for [@Toeverything](https://github.com/toeverything).
+A developer in Hangzhou, working for [@Toeverything](https://github.com/toeverything).
 
 ### My Interests:
 
