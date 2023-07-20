@@ -1,11 +1,4 @@
-A developer in Hangzhou, working for [@Toeverything](https://github.com/toeverything).
-
-### Find me
-
-- [gist](https://gist.github.com/thorseraq)
-- [Weekly Notes](https://github.com/thorseraq/Notebook/issues)
-- [x1a0t homepage](https://thorseraq.github.io/)
-- [leetcode homepage](https://leetcode.cn/u/x1a0t/.)
+Readers appreciate, but don't help creating JoJo's Bizarre Adventure.
 
 
 <!--
