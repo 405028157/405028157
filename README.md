@@ -1,4 +1,4 @@
-Readers appreciate, but don't help creating JoJo's Bizarre Adventure.
+Readers may appreciate, but don't help creating JoJo's Bizarre Adventure.
 
 
 <!--
