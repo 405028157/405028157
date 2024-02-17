@@ -1,6 +1,3 @@
-Readers may appreciate, but don't help creating JoJo's Bizarre Adventure.
-
-
 <!--
 **405028157/405028157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
